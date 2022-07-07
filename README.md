@@ -3,9 +3,11 @@
 new kernel upgrade 
 ### install
 
-$ git clone -b workstation-16.2.3 https://github.com/Ron4-kw0rk3r/vmware-install-host
-$ cd vmware-install-host
-$ make 
+-$ git clone -b workstation-16.2.3 https://github.com/Ron4-kw0rk3r/vmware-install-host
+#
+-$ cd vmware-install-host
+#
+-$ make 
 (root) make install
 end
 
