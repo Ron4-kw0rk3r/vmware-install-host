@@ -8,9 +8,12 @@ new kernel upgrade
 -$ cd vmware-install-host
 #
 -$ make 
-(root) make install
+# 
+-(root) make install
+# 
 end
 
 or
+
 ## install host  vmware manual  
 vmware-modconfig --console --install-all
